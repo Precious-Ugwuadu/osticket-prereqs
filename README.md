@@ -83,9 +83,17 @@ Allowing everyone full control is not good, but for the sake of this lab, we can
 
 ![image](https://github.com/user-attachments/assets/eac3a4a6-1a7f-46ce-9cd5-9c1fccc3e23a)
 
+![image](https://github.com/user-attachments/assets/b9b62bc7-125f-4375-a548-e6217241a283)
 
+![image](https://github.com/user-attachments/assets/942a6bd6-bcba-4f56-abff-b587d4e78f57)
 
+![image](https://github.com/user-attachments/assets/145532f8-3841-4e25-9e7c-b50a9df43d9c)
 
+This is where I can log in as an actual admin user 
+
+![image](https://github.com/user-attachments/assets/c73777be-4c09-49f8-9586-a2f3d2dc8023)
+
+This is my ticketing system
 </p>
 <p> 
 Inside 
