@@ -46,10 +46,11 @@ I created a virtual machine (VM) in the Microsoft Azure portal by setting it up 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<![image](https://github.com/user-attachments/assets/4353eef0-5574-43ec-9812-4da8d5a451a2)>
+
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> 
+Inside the virtual machine (named osticket-vm), I downloaded the file called osTicket-Installation-Files.zip and extracted its contents to my desktop. This will create a folder named osTicket-Installation-Files. The files inside this folder are needed to install osTicket and its required software components. 
 </p>
 <br />
 
