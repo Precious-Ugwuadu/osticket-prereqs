@@ -55,6 +55,18 @@ Inside the virtual machine (named osticket-vm), I downloaded the file called osT
   
 ![image](https://github.com/user-attachments/assets/4353eef0-5574-43ec-9812-4da8d5a451a2)
 
+osTicket runs on a web browser so it requires a web browser and a database to be installed and configured.  
+
+![image](https://github.com/user-attachments/assets/23784e29-466b-44ae-a85c-a34df6844d05)
+
+I typed 127.0.0.1 in the web browser, and this opened up. This shows that the computer is now a web server, although it is not hosting anything.
+
+![image](https://github.com/user-attachments/assets/4ed53d50-2594-4a2e-8fd7-250b15b495e1)
+
+Because osTicket runs on PHP, I have to install it to make it work. This is a requirement.
+
+
+
 </p>
 <p> 
 Inside 
