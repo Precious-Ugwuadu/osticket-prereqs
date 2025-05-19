@@ -71,7 +71,17 @@ Because osTicket runs on PHP, I have to install it to make it work. This is a re
 
 ![image](https://github.com/user-attachments/assets/0412c45c-0100-4726-aea9-30cee39fbe07)
 
+![image](https://github.com/user-attachments/assets/3adce0b2-ebcc-4d39-90ec-f09839811b77)
 
+![image](https://github.com/user-attachments/assets/86e15da7-876e-4863-9d04-9f78cfbdb426)
+
+![image](https://github.com/user-attachments/assets/3bfd24ae-2582-45bc-85a9-d47ca7d425cd)
+
+Allowing everyone full control is not good, but for the sake of this lab, we can use it.
+
+![image](https://github.com/user-attachments/assets/e557139f-fd95-41c7-8d93-3de2ae366930)
+
+![image](https://github.com/user-attachments/assets/eac3a4a6-1a7f-46ce-9cd5-9c1fccc3e23a)
 
 
 
