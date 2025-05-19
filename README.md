@@ -46,7 +46,8 @@ I created a virtual machine (VM) in the Microsoft Azure portal by setting it up 
 <br />
 
 <p>
-<![image](https://github.com/user-attachments/assets/4353eef0-5574-43ec-9812-4da8d5a451a2)>
+  
+![image](https://github.com/user-attachments/assets/4353eef0-5574-43ec-9812-4da8d5a451a2)
 
 </p>
 <p> 
