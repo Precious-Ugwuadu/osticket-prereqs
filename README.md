@@ -65,6 +65,15 @@ I typed 127.0.0.1 in the web browser, and this opened up. This shows that the co
 
 Because osTicket runs on PHP, I have to install it to make it work. This is a requirement.
 
+![image](https://github.com/user-attachments/assets/210c95b5-2cf3-4a57-88fa-718ed4f26565)
+
+![image](https://github.com/user-attachments/assets/f02907d0-3482-42ad-9aa2-8a324c7b8e2d)
+
+![image](https://github.com/user-attachments/assets/0412c45c-0100-4726-aea9-30cee39fbe07)
+
+
+
+
 
 
 </p>
