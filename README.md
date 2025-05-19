@@ -125,5 +125,6 @@ This is my ticketing system
 - Test osTicket by visiting the login and end-user URLs.
 
 - Clean up by deleting the setup folder and restricting config file permissions.
+  
 </p>
 <br />
