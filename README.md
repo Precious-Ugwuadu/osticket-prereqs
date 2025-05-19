@@ -34,11 +34,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
   
-![image](https://github.com/user-attachments/assets/e7f2b3b0-0e4d-4530-9c9b-cc132be909c8)
+![image](https://github.com/user-attachments/assets/e7f2b3b0-0e4d-4530-9c9b-cc132be909c8) 
+
+![image](https://github.com/user-attachments/assets/1fd90667-60e2-4e43-b782-5953af95c2f2)
+
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I created a virtual machine (VM) in the Microsoft Azure portal by setting it up with the needed options like name, size, and login details. Once the VM was ready, I copied its public IP address and used Remote Desktop Connection to securely log in and manage the system.
 </p>
 <br />
 
