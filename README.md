@@ -108,7 +108,7 @@ HOW TO:
 
 ![image](https://github.com/user-attachments/assets/f02907d0-3482-42ad-9aa2-8a324c7b8e2d)
 
-From the “osTicket-Installation-Files” folder, I installed VC_redist.x86.exe.
+From the “osTicket-Installation-Files” folder, I installed VC_redist.x86.exe. 
 
 To install VC_redist.x86.exe from the “osTicket-Installation-Files” folder:
 
