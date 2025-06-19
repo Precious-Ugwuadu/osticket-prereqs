@@ -93,10 +93,34 @@ HOW TO:
 
 ✅ The IIS Rewrite Module is now installed and ready to use.
 
+Next, I created the directory C:\PHP. 
+
+HOW TO:
+
+- Open File Explorer.
+
+- Go to Local Disk (C:).
+
+- Right-click inside the window and select New > Folder.
+
+- Name the folder PHP.
+
 
 ![image](https://github.com/user-attachments/assets/f02907d0-3482-42ad-9aa2-8a324c7b8e2d)
 
+From the “osTicket-Installation-Files” folder, I installed VC_redist.x86.exe.
+
+To install VC_redist.x86.exe from the “osTicket-Installation-Files” folder:
+
+Open the “osTicket-Installation-Files” folder > Locate VC_redist.x86.exe > Double-click the file to launch the installer > In the setup window, accept the license terms > Click Install and wait for the process to complete > Click Finish once installation is done.
+
+✅ The Visual C++ Redistributable is now installed.
+
 ![image](https://github.com/user-attachments/assets/0412c45c-0100-4726-aea9-30cee39fbe07)
+
+From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration -> Username: root -> Password: root (setting both user name and password as "root" is bad in real life, but i used it to keep things simple for this lab).
+
 
 ![image](https://github.com/user-attachments/assets/3adce0b2-ebcc-4d39-90ec-f09839811b77)
 
