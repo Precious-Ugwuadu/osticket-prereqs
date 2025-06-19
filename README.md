@@ -121,8 +121,38 @@ Open the “osTicket-Installation-Files” folder > Locate VC_redist.x86.exe > D
 From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration -> Username: root -> Password: root (setting both user name and password as "root" is bad in real life, but i used it to keep things simple for this lab).
 
+Next, I will  open IIS as an Administrator by clicking Start > typing IIS or Internet Information Services (IIS) Manager > Right-click it and select “Run as administrator.”
+
+Next, I registered PHP in IIS. In IIS Manager > click on your server name in the left panel > Double-click PHP Manager > Click “Register new PHP version.”
+
+Browse to and select:
+makefile
+Copy
+Edit
+C:\PHP\php-cgi.exe
+
+Click OK to register PHP.
+
+Next,  Reload IIS (Stop and Start the Server). In IIS Manager > right-click the server name (top level) > Click Stop, then right-click again and click Start.
+
+✔️ PHP is now registered, and IIS has been reloaded.
+
 
 ![image](https://github.com/user-attachments/assets/3adce0b2-ebcc-4d39-90ec-f09839811b77)
+
+Install osTicket v1.15.8
+From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
+Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+
+HOW TO:
+
+✅ 1. Unzip the osTicket Files > Go to the “osTicket-Installation-Files” folder > Right-click osTicket-v1.15.8.zip and select Extract All > After extraction, open the extracted folder and locate the “upload” folder.
+
+✅ 2. Copy the “upload” Folder to IIS Root > Navigate to C:\inetpub\wwwroot > Paste the “upload” folder there.
+
+✅ 3. Rename the Folder > In C:\inetpub\wwwroot, right-click the “upload” folder > Select Rename, and change it to “osTicket”.
+
+✔️ osTicket files are now ready under C:\inetpub\wwwroot\osTicket.
 
 ![image](https://github.com/user-attachments/assets/86e15da7-876e-4863-9d04-9f78cfbdb426)
 
