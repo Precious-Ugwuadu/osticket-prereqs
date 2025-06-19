@@ -36,6 +36,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 ![image](https://github.com/user-attachments/assets/e7f2b3b0-0e4d-4530-9c9b-cc132be909c8) 
 
+Firstly, I started by creating an Azure Virtual Machine with Windows 10, 4 vCPUs
+
 ![image](https://github.com/user-attachments/assets/1fd90667-60e2-4e43-b782-5953af95c2f2)
 
 
