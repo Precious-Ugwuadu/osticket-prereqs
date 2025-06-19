@@ -67,9 +67,32 @@ Next, I  installed  IIS on Windows with CGI support by typing 127.0.0.1 in the w
 
 ![image](https://github.com/user-attachments/assets/4ed53d50-2594-4a2e-8fd7-250b15b495e1)
 
-Because osTicket runs on PHP, I have to install it to make it work. This is a requirement.
+Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the “osTicket-Installation-Files” folder. Because osTicket runs on PHP, I have to install it to make it work. This is a requirement.
+
+How to:
+
+Open the “osTicket-Installation-Files” folder > Double-click PHPManagerForIIS_V1.5.0.msi > follow the installation wizard to complete the setup.
 
 ![image](https://github.com/user-attachments/assets/210c95b5-2cf3-4a57-88fa-718ed4f26565)
+
+From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
+
+HOW TO:
+
+- Navigate to the “osTicket-Installation-Files” folder on your system.
+
+- Locate the file named rewrite_amd64_en-US.msi — this is the installer for the IIS URL Rewrite Module.
+
+- Double-click the file to launch the installer.
+
+- In the setup wizard, click Next, accept the license terms, and click Install.
+
+- Once the installation is complete, click Finish.
+
+- Restart IIS (using iisreset in Command Prompt) to apply the changes.
+
+✅ The IIS Rewrite Module is now installed and ready to use.
+
 
 ![image](https://github.com/user-attachments/assets/f02907d0-3482-42ad-9aa2-8a324c7b8e2d)
 
