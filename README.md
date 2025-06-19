@@ -51,17 +51,19 @@ Once the VM was ready, I copied its public IP address and used Remote Desktop Co
 
 </p>
 <p> 
-Inside the virtual machine (named osticket-vm), I downloaded the file called osTicket-Installation-Files.zip and extracted its contents to my desktop. This will create a folder named osTicket-Installation-Files. The files inside this folder are needed to install osTicket and its required software components. 
+
 </p>
 <br />
   
 ![image](https://github.com/user-attachments/assets/4353eef0-5574-43ec-9812-4da8d5a451a2)
 
-osTicket runs on a web browser so it requires a web browser and a database to be installed and configured.  
+Inside the virtual machine (named osticket-vm), I downloaded the file called osTicket-Installation-Files.zip and extracted its contents to my desktop. This will create a folder named osTicket-Installation-Files. The files inside this folder are needed to install osTicket and its required software components. 
+
+osTicket runs on a web browser, so it requires a web browser and a database to be installed and configured.  
 
 ![image](https://github.com/user-attachments/assets/23784e29-466b-44ae-a85c-a34df6844d05)
 
-I typed 127.0.0.1 in the web browser, and this opened up. This shows that the computer is now a web server, although it is not hosting anything.
+Next, I  installed  IIS on Windows with CGI support by typing 127.0.0.1 in the web browser, and the above image opened up. This shows that the computer is now a web server, although it is not hosting anything.
 
 ![image](https://github.com/user-attachments/assets/4ed53d50-2594-4a2e-8fd7-250b15b495e1)
 
